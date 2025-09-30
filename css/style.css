@@ -230,7 +230,7 @@ footer {
   /* navbar responsive */
   nav {
     padding: 0 40px 0 50px;
-    position: relative;
+    position: fixed;
   }
 
   nav .menu-btn i {
